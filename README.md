@@ -9,11 +9,8 @@ Follow the [instructions](#workflow) to updated your private repository.
 
 ## Assignments Overview
 
-[Assignment 1](assignment1) (Due date: 15.03.2019 08:00)  
-[Assignment 2](assignment2) (Due date: 29.03.2019 09:00)  
-[Assignment 3](assignment3) (Due date: None (optional task))  
-[Assignment 4](assignment4) (Due date: 03.05.2019 08:00)  
-[Assignment 5](assignment5) (Due date: 17.05.2019 09:00)  
+[Assignment 1](assignment1) (Due date: 13.03.2020 08:00)  
+
 
 ## General Rules and Instructions
 
