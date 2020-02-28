@@ -11,6 +11,9 @@ Follow the [instructions](#workflow) to updated your private repository.
 
 [Assignment 1](assignment1) (Due date: 13.03.2020 08:00)  
 
+## Update
+- We refer to the notes in https://libigl.github.io/tutorial/ for compiling issue of libigl. 
+- One may ask questions in the "issues" page here so that others could also benefit from it.
 
 ## General Rules and Instructions
 
