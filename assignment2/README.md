@@ -11,12 +11,10 @@ Edit this 'README.md' file to report all your results. There is no need to write
 
 3) Show screenshots of the reconstructed surfaces. Experiment with different parameter settings: grid resolution (also anisotropic in the 3 axes), Wendland function radius, polynomial degree. Add all these settings to the GUI to ease experimentation. Briefly summarize your observations and save the reconstructed models in the off format for every point-cloud dataset provided (assignment2/results).
 
-4) Theory question: Save your notes to assignment2/results and add a link to this page.
-
-### Optional Tasks
+### Theory question: Save your notes to assignment2/results and add a link to this page.
 
 1) Save your notes and add a link to this page.
 
 2) Show screenshots comparing the 'hound.off' of the normal based reconstruction to the point based reconstruction of the mandatory task.
 
-3) Compare your MLS reconstruction results to the surfaces obtained with this method, and try to understand the differences. Report your findings.
+3) Compare your MLS reconstruction results to the surfaces obtained with Screened Poisson Reconstruction and RIMLS, and try to understand the differences. Report your findings.
