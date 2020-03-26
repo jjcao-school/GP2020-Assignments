@@ -4,7 +4,7 @@ Edit this 'README.md' file to report all your results. There is no need to write
 
 ## Required results
 
-### Mandatory Tasks
+### Coding Tasks
 1) Show the visualization of the constrained points for the 'cat.off' point cloud.
 
 2) Show screenshots of the grid with nodes colored according to their implicit function values (cat.off and luigi.off).
